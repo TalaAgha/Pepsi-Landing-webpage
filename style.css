@@ -221,7 +221,8 @@ header ul li a:hover {
   .content .imgBox img {
     max-width: 150px;
   }
-  .thumb li {
+  .thumb  {
+    padding-top:100px;
   }
   .thumb li img {
     max-width: 30px;
